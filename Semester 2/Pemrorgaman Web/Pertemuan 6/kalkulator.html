@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prak 6</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap"
+rel="stylesheet">
+<style type="text/css">
+body{
+background-color: cyan;
+font-family: 'Poppins', sans-serif;
+}
+</style>
+</head>
+<body>
+<center><h1>KALKULATOR SEDERHANA</h1><br>
+<form>
+<label>Input A :</label>
+<input type="number" id="input_a">
+<label>Input B :</label>
+<input type="number" id="input_b">
+<br><br>
+<label>Operator</label>
+<br><br>
+<select id="operator">
+<option value="+">+</option>
+<option value="-">-</option>
+<option value="/">/</option>
+<option value="*">*</option>
+</select><br><br>
+<button type="button" onclick="kalkulasi()">Hasil</button>
+<br><br>
+<p>Hasil : <b id="hasil"></b></p>
+</form>
+</center>
+<script type="text/javascript">
+function kalkulasi() {
+
+var a = document.getElementById('input_a');
+var b = document.getElementById('input_b');
+var operator = document.getElementById('operator');
+var hasil;
+if (operator.value == '+') {
+hasil = parseInt(a.value) + parseInt(b.value);
+}
+document.getElementById('hasil').innerHTML=hasil;
+}
+</script>
+</body>
+</html>
