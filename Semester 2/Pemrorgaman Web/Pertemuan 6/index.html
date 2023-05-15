@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Praktikum 6</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>KALKULATOR</h1><br>
+        <center>
+            <form>
+                <label>Bilangan 1 :</label>
+                <input type="number" id="bil1">
+                <label>Bilangan 2 :</label>
+                <input type="number" id="bil2">
+                <br><br>
+                <label>Operator</label>
+                <br><br>
+                <select id="operator">
+                    <option value="+">+</option>
+                    <option value="-">-</option>
+                    <option value="/">/</option>
+                    <option value="*">*</option>
+                    <option value="%">%</option>
+                </select><br><br>
+                <button type="button" onclick="kalkulator()">Hasil</button>
+                <br><br>
+                <p>Hasil : <b id="hasil"></b></p>
+            </form>
+        </center>
+        <script src="script.js"></script>
+    </body>
+</html>
