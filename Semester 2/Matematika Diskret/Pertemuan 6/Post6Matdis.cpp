@@ -104,7 +104,7 @@ void count::exit(){
     cout << endl << endl;
 }
 
-main(){
+int main(){
     char repeat;
     do{
         fpb.watermark();
