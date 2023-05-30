@@ -45,7 +45,11 @@ void prime::watermark(){
 
 void prime::inputValue(){
     cout << "Masukkan nilai : ";
-    cin >> value;
+    while(!(cin >> value)){
+        cout << "Input yang anda masukkan salah! Mohon masukkan bilangan." << endl;
+        cin.clear();
+        cin.ignore();
+    }
 }
 
 bool prime::checkPrime(int value){
