@@ -1,0 +1,42 @@
+body{
+    background-color: cyan;
+    font-family: 'Poppins', sans-serif;
+}
+form{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+select{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+button{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+}
