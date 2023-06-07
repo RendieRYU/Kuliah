@@ -1,0 +1,136 @@
+*{
+	padding: 0; margin: 0;
+}
+.nav{
+	width: 100%; height: 60px;
+	background-color: transparent;
+	position: fixed;color: #343a40;
+	box-shadow: 0 1px 2px 0 #ffc107;
+}
+.nav .word_1{
+	font-family: 'Montserrat', sans-serif;position: absolute; float: left;
+	margin: 18px 50px;flex: none;font-size: 20px;color: white;
+}
+.nav .word_2{
+	font-family: sans-serif;position: absolute; float: left;
+	margin: 38px 44.85%;font-size: 20px;width: 8.2%;font-weight: bold;
+	background-color: white;height: 23px;padding: 10px;
+	border-radius: 23px;border: 5px; color: #343a40;border: 3px solid #ffc107;
+}
+.nav .icon{
+	font-family: 'Bree Serif', serif;	position: absolute; float: left;
+	margin: 18px 76%;font-size: 20px;background-color: transparent;width: 25%;
+	border: 1;border-color: darkgreen;
+}
+hr{
+	width: 80%;margin-left: 10%;position: fixed;box-shadow: 2%;
+}
+body .utama{
+	margin-top: 13%;margin-left: 56%;
+	position: absolute;float: left;border-radius: 5%;
+	width: 40%; height: 50%;background-color: #dddddd;box-shadow: 0 2px 20px 0 #dddddd;
+}
+.utama .ling1{
+	width: 20px;height: 20px;border-radius: 20px;background-color: #f54748;position: absolute;float: left;
+	margin-top: 15px;margin-left: 20px;
+}
+.utama .ling2{
+	width: 20px;height: 20px;border-radius: 20px;background-color: #f9b208;position: absolute;float: left;
+	margin-top: 15px;margin-left: 50px;
+}
+.utama .ling3{
+	width: 20px;height: 20px;border-radius: 20px;background-color: #29bb89;position: absolute;float: left;
+	margin-top: 15px;margin-left: 80px;
+}
+.utama #hr1{
+	position: absolute;float: left;margin-top: 45px;width: 100%;margin-left: 0%;
+}
+.utama .icon{
+	position: absolute;float: left;margin-left: 47%;margin-top: 12px;color: #ffffff;
+}
+.label{
+	margin-top: 17%;margin-left: 30%; position: absolute;float: left;font-family: 'Bree Serif', serif;
+	color: #343a40;
+}
+.utama .input-bil{
+	position: absolute;float: left;margin: 30% 10%;width: 80%;
+	background-color: skyblue;height: 50px;border-radius: 50px;
+}
+.utama #input-bil{
+	position: absolute;float: left;width: 80%;height: 50px;margin-left: 20%;border-radius: 50px;
+}
+.utama #input-bil2{
+	position: absolute;float: left;width: 80%;height: 50px;margin-left: 20%;border-radius: 50px;
+	background-color: whitesmoke;
+}
+#input-bil #input_bil2{
+	position: absolute;float: left;width: 100%;height: 50px;
+	border-radius: 50px;border: none;outline: none;padding-left: 5%;
+	font-size: 20px;font-family: 'Bree Serif', serif;text-align: center;
+}
+#input-bil #input_bil{
+	position: absolute;float: left;width: 95%;height: 50px;
+	border-radius: 50px;border: none;outline: none;padding-left: 5%;
+	font-size: 22px;font-family: 'Bree Serif', serif;text-align: center;
+}
+#icon{
+	position: absolute;float: left;margin: 13px 35px;
+}
+#icon1{
+	color: whitesmoke;width: 30px;
+}
+.utama .submit-cek{
+	position: absolute;float: left;margin: 47% 30%;
+}
+.utama .reset-cek{
+	position: absolute;float: left;margin: 47% 50%;
+}
+.submit-cek #submit{
+	width: 100px;height: 35px;border-radius: 10px;border: none;outline: none;font-family: 'Bree Serif', serif;
+	color: whitesmoke;background-color: seagreen;font-size: 17px;
+}
+.reset-cek #reset{
+	width: 100px;height: 35px;border-radius: 10px;border: none;outline: none;font-family: 'Bree Serif', serif;
+	color: whitesmoke;background-color: orangered;font-size: 17px;
+}
+#submit:active{
+	color: skyblue;font-size: 14px;
+}
+#reset:active{
+	color: skyblue;font-size: 14px;
+}
+.main #footer{
+	position: absolute;float: left;margin: 42% 40.1%;width: 20%;
+	font-size: 18px;color:#343a40;font-family: 'Bree Serif', serif;;
+}
+#footer i{
+	color: orangered;
+}
+.label-hasil{
+	margin-top: 17%;margin-left: 45%; position: absolute;float: left;font-family: 'Bree Serif', serif;
+	color: #343a40;
+}
+.kembali{
+	width: 100px;height: 35px;border-radius: 10px;border: none;outline: none;font-family: 'Bree Serif', serif;
+	color: whitesmoke;background-color: seagreen;font-size: 17px;position: absolute;float: left;margin: 45% 42%;
+}
+#kembali{
+	width: 100px;height: 35px;border-radius: 10px;border: none;outline: none;font-family: 'Bree Serif', serif;
+	color: whitesmoke;background-color: seagreen;font-size: 17px;
+}
+#kembali:active{
+	color: skyblue;font-size: 14px;
+}
+#input-bil2 #hasil{
+	position: absolute;float: left;margin: 6px 15%;font-family: 'Bree Serif', serif;font-size: 22px;width: 100%;
+}
+body #profil{
+	position: absolute;float: left;width: 50%; height: 100%;
+	background-color: #E4E5EC;font-family: 'Montserrat', sans-serif;
+}
+#profil #besar{
+	opacity: 100%;margin-top: 31%;margin-left: 5%; font-size: 30px;color: #ffc107;
+}
+#profil #kecil{
+	opacity: 100%;margin: 1% 5%; font-size: 20px;color: #11110e;
+}
