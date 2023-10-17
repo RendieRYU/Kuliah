@@ -1,0 +1,146 @@
+Data Laki-laki:
+[44m==================================================================[m
+[44m||                  PROVINSI DAERAH ISTIMEWA YOGYAKARTA         ||[m
+[44m||                 KABUPATEN GUNUNGKIDUL                        ||[m
+[44m||                                                              ||[m
+[44m|| NIK              : 3402100901810001                          ||[m
+[44m|| Nama             : BEJO                                      ||[m
+[44m|| Tempat/Tgl Lahir : BANTUL, 09-01-1981                        ||[m
+[44m|| Jenis Kelamin    : LAKI-LAKI         Gol. Darah   : A        ||[m
+[44m|| Alamat           : MENGGER                                   ||[m
+[44m||     RT/RW        : 006/010                                   ||[m
+[44m||     Kel/Desa     : KARANGASEM                                ||[m
+[44m||     Kecamatan    : PALIYAN                                   ||[m
+[44m|| Agama            : ISLAM                                     ||[m
+[44m|| Status Perkawinan: KAWIN                                     ||[m
+[44m|| Pekerjaan        : BURUH HARIAN LEPAS                        ||[m
+[44m|| Kewarganegaraan  : WNI                                       ||[m
+[44m|| Berlaku Hingga   : SEUMUR HIDUP                              ||[m
+[44m||                                                              ||[m
+[44m==================================================================[m
+
+Data Laki-laki:
+[44m==================================================================[m
+[44m||                  PROVINSI KALIMANTAN TENGAH                  ||[m
+[44m||                 KABUPATEN PALANGKARAYA                       ||[m
+[44m||                                                              ||[m
+[44m|| NIK              : 6271011212540004                          ||[m
+[44m|| Nama             : HAMID MADIAH DURACHMAN                    ||[m
+[44m|| Tempat/Tgl Lahir : PALANGKARAYA, 12-12-1964                  ||[m
+[44m|| Jenis Kelamin    : LAKI-LAKI         Gol. Darah   : AB       ||[m
+[44m|| Alamat           : JL. KALIMANTAN NO.50                      ||[m
+[44m||     RT/RW        : 003/020                                   ||[m
+[44m||     Kel/Desa     : PAHANDUT                                  ||[m
+[44m||     Kecamatan    : PAHANDUT                                  ||[m
+[44m|| Agama            : ISLAM                                     ||[m
+[44m|| Status Perkawinan: KAWIN                                     ||[m
+[44m|| Pekerjaan        : PEGAWAI NEGERI SIPIL (PNS)                ||[m
+[44m|| Kewarganegaraan  : WNI                                       ||[m
+[44m|| Berlaku Hingga   : SEUMUR HIDUP                              ||[m
+[44m||                                                              ||[m
+[44m==================================================================[m
+
+Data Laki-laki:
+[44m==================================================================[m
+[44m||                  PROVINSI JAWA BARAT                         ||[m
+[44m||                 KABUPATEN BANDUNG                            ||[m
+[44m||                                                              ||[m
+[44m|| NIK              : 3204261009990005                          ||[m
+[44m|| Nama             : IRMAN SYAHBAN                             ||[m
+[44m|| Tempat/Tgl Lahir : BANDUNG, 10-06-1999                       ||[m
+[44m|| Jenis Kelamin    : LAKI-LAKI         Gol. Darah   : -        ||[m
+[44m|| Alamat           : KP. SAWAH DEUKEUT                         ||[m
+[44m||     RT/RW        : 001/002                                   ||[m
+[44m||     Kel/Desa     : CITAMAN                                   ||[m
+[44m||     Kecamatan    : NACREG                                    ||[m
+[44m|| Agama            : ISLAM                                     ||[m
+[44m|| Status Perkawinan: BELUM KAWIN                               ||[m
+[44m|| Pekerjaan        : BELUM/TIDAK BEKERJA                       ||[m
+[44m|| Kewarganegaraan  : WNI                                       ||[m
+[44m|| Berlaku Hingga   : SEUMUR HIDUP                              ||[m
+[44m||                                                              ||[m
+[44m==================================================================[m
+
+Data Laki-laki:
+[44m==================================================================[m
+[44m||                  PROVINSI BANTEN                             ||[m
+[44m||                 KABUPATEN TANGGERANG SELATAN                 ||[m
+[44m||                                                              ||[m
+[44m|| NIK              : 3674072703040003                          ||[m
+[44m|| Nama             : MOHAMMAD FARID HENDIANTO                  ||[m
+[44m|| Tempat/Tgl Lahir : TANGGERANG, 27-04-2004                    ||[m
+[44m|| Jenis Kelamin    : LAKI-LAKI         Gol. Darah   : B        ||[m
+[44m|| Alamat           : BATAN INDAH BLOK J-14                     ||[m
+[44m||     RT/RW        : 003/004                                   ||[m
+[44m||     Kel/Desa     : KADEMANGAN                                ||[m
+[44m||     Kecamatan    : SETU                                      ||[m
+[44m|| Agama            : ISLAM                                     ||[m
+[44m|| Status Perkawinan: PELAJAR/MAHASISWA                         ||[m
+[44m|| Pekerjaan        : BELUM KAWIN                               ||[m
+[44m|| Kewarganegaraan  : WNI                                       ||[m
+[44m|| Berlaku Hingga   : SEUMUR HIDUP                              ||[m
+[44m||                                                              ||[m
+[44m==================================================================[m
+
+Data Laki-laki:
+[44m==================================================================[m
+[44m||                  PROVINSI KALIMANTAN TENGAH                  ||[m
+[44m||                 KABUPATEN KOTAWARINGIN BARAT                 ||[m
+[44m||                                                              ||[m
+[44m|| NIK              : 6201052907040001                          ||[m
+[44m|| Nama             : RENDIE ABDI SAPUTRA                       ||[m
+[44m|| Tempat/Tgl Lahir : PANGKALAN BUN, 29-07-04                   ||[m
+[44m|| Jenis Kelamin    : LAKI-LAKI         Gol. Darah   : B        ||[m
+[44m|| Alamat           : JL. A.YANI                                ||[m
+[44m||     RT/RW        : 006/003                                   ||[m
+[44m||     Kel/Desa     : SUMBER AGUNG                              ||[m
+[44m||     Kecamatan    : PANGKALAN LADA                            ||[m
+[44m|| Agama            : ISLAM                                     ||[m
+[44m|| Status Perkawinan: BELUM KAWIN                               ||[m
+[44m|| Pekerjaan        : PELAJAR/MAHASISWA                         ||[m
+[44m|| Kewarganegaraan  : WNI                                       ||[m
+[44m|| Berlaku Hingga   : SEUMUR HIDUP                              ||[m
+[44m||                                                              ||[m
+[44m==================================================================[m
+
+Data Perempuan:
+[44m==================================================================[m
+[44m||                  PROVINSI DAERAH ISTIMEWA YOGYAKARTA         ||[m
+[44m||                 KABUPATEN YOGYAKARTA                         ||[m
+[44m||                                                              ||[m
+[44m|| NIK              : 3471135407040001                          ||[m
+[44m|| Nama             : AISYAH SYAFII NURJANNAH                   ||[m
+[44m|| Tempat/Tgl Lahir : YOGYAKARTA, 14-07-2004                    ||[m
+[44m|| Jenis Kelamin    : PEREMPUAN         Gol. Darah   : -        ||[m
+[44m|| Alamat           : GLAGAH UH 4/67                            ||[m
+[44m||     RT/RW        : 012/003                                   ||[m
+[44m||     Kel/Desa     : WARUNGBOTO                                ||[m
+[44m||     Kecamatan    : UMBULHARJO                                ||[m
+[44m|| Agama            : ISLAM                                     ||[m
+[44m|| Status Perkawinan: BELUM KAWIN                               ||[m
+[44m|| Pekerjaan        : PELAJAR/MAHASISWA                         ||[m
+[44m|| Kewarganegaraan  : WNI                                       ||[m
+[44m|| Berlaku Hingga   : SEUMUR HIDUP                              ||[m
+[44m||                                                              ||[m
+[44m==================================================================[m
+
+Data Perempuan:
+[44m==================================================================[m
+[44m||                  PROVINSI PAPUA                              ||[m
+[44m||                 KABUPATEN JAYAPURA                           ||[m
+[44m||                                                              ||[m
+[44m|| NIK              : 9171014107880019                          ||[m
+[44m|| Nama             : ATA BHAYANGKARA BUSA                      ||[m
+[44m|| Tempat/Tgl Lahir : JAYAPURA, 01-07-1988                      ||[m
+[44m|| Jenis Kelamin    : PEREMPUAN         Gol. Darah   : A        ||[m
+[44m|| Alamat           : APO GUNUNG                                ||[m
+[44m||     RT/RW        : 008/004                                   ||[m
+[44m||     Kel/Desa     : BHAYANGKARA                               ||[m
+[44m||     Kecamatan    : JAYAPURA UTARA                            ||[m
+[44m|| Agama            : KRISTEN                                   ||[m
+[44m|| Status Perkawinan: BELUM KAWIN                               ||[m
+[44m|| Pekerjaan        : PELAJAR/MAHASISWA                         ||[m
+[44m|| Kewarganegaraan  : WNI                                       ||[m
+[44m|| Berlaku Hingga   : SEUMUR HIDUP                              ||[m
+[44m||                                                              ||[m
+[44m==================================================================[m
