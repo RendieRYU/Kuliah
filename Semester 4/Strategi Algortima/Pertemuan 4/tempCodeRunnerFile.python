@@ -1,0 +1,39 @@
+print("foodelivery\n")
+print("1. ayam geprek: 21000\n")
+print("2. ayam goreng: 17000\n")
+print("3. udang goreng: 19000\n")
+print("4. cumi goreng: 20000\n")
+print("5. Ayam Bakar: 25000\n")
+meman = {
+  'ayam geprek': 21000,
+  'ayam goreng': 17000,
+  'udang goreng': 19000,
+  'cumi goreng': 20000,
+  'ayam bakar': 25000,
+}
+pesanan = (input("masukan pesanan anda: "))
+jumlah = (input("Masukkan Jumlah: "))
+
+if pesanan in meman:
+    hargamenu = meman[pesanan]
+    print(f"pesanan anda adalah {pesanan} dengan harga {hargamenu}")
+    dist = float(input("masukan jarak rumah anda: "))
+    if dist >= 3:
+            ongkir = 15000
+            print("biaya ongkirnya: " , int(ongkir))
+    else :
+            ongkir = 25000
+            print("baya ongkirnya: " , int(ongkir))
+    total = hargamenu
+    biaya = int(hargamenu) + int(ongkir) * int(jumlah)
+    if total >= 25000:
+                ongkir += 3000
+    elif total >= 50000:
+        ongkir += 5000
+        biaya *= 0.85
+    elif total >= 150000:
+        ongkir +=8000
+        biaya *= 0.65
+    print("total harga: " , int(biaya))
+else:
+  print("menu tidak tersedia")

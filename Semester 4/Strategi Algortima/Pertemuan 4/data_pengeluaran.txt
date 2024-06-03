@@ -1,0 +1,6 @@
+Pengeluaran tiap bulan:
+Bulan 1: 3000
+Bulan 2: 2000
+
+Total pengeluaran selama 2 bulan: 5000
+Total tabungan saat ini: 1000
